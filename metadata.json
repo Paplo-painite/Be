@@ -1,0 +1,6 @@
+{
+  "name": "Plus",
+  "description": "An AI healthcare companion app inspired by Baymax.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
